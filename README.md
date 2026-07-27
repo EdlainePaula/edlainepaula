@@ -1,14 +1,17 @@
-🙋🏽‍♀️ Olá, eu sou a Edlaine! 
+# Olá! 👋 Eu sou a Edlaine
+
+💻 Desenvolvedora Full Stack em formação
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** pelo **Senac** e estou focada em desenvolver aplicações web utilizando HTML, CSS, JavaScript e Python.
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
 
-
-🎢 <b>Desenvolvedora FullStack em formação</b>
-
-
-❤️ Desenvolvimento de sites com HTML, CSS e JS!
-
-
-📓 Estudando Frameworks,.NET  lógica de programação.
+📓 Estudante de Analise e Desenvolvimento de sistemas pelo Senac 
 
 
 <div style="display: inline_block"><br>
