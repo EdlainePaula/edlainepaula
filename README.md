@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Edlaine
+# Olá! Eu sou a Edlaine.
 
 💻 Desenvolvedora Full Stack em formação
 
